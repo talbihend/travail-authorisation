@@ -1,0 +1,6 @@
+{
+    "db" : "mongodb+srv://testhend:1231996@cluster0.fuhoibp.mongodb.net/auth?retryWrites=true&w=majority",
+    "secret" : "shhhh"
+
+}
+ 
